@@ -6,7 +6,7 @@
 - Open `signatures.html` in your browser
 - Hit `cmd+a` to select all
 - Copy the selected content (`cmd+c`)
-- Go to your Gmail Settings
+- Go to your Gmail Signature Settings (⚙️ > See all settings > General > Signature)
 - Create a new signature and paste (`cmd+v`)
 - Select new signature as default
 - Save Settings.
